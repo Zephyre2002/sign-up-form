@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # sign-in-form
 # sign-in-form
 # sign-up-form
+# sign-up-form
